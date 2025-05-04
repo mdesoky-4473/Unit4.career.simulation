@@ -1,0 +1,33 @@
+{
+  "name": "unit4.careersim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "pg": "^8.15.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdesoky-4473/Unit4.career.simulation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdesoky-4473/Unit4.career.simulation/issues"
+  },
+  "homepage": "https://github.com/mdesoky-4473/Unit4.career.simulation#readme"
+}
